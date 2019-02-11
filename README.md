@@ -12,6 +12,8 @@ Phil Mass
 Ralph Perdomo  
 Jared Reando  
 
+![Screenshot](readme-images/screenshot.png)
+
 ## Table of contents
 **[Resources](#resources)**<br>
 **[Setup & Installation](#setup-and-installation)**<br>
